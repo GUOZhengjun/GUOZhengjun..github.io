@@ -1,6 +1,6 @@
 # GUO Zhengjun
 
-## An Interdisciplinary Oncologist.
+## An Interdisciplinary Oncologist, MD&PhD.
 
 GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
@@ -13,7 +13,7 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 - Bioinformatic analysis and datamining of public databases: Local clinical database construction; Lasso-cox regression model and nomogram analysis; transcriptional array datamining, such as heatmap, volcano, KEGG, GSEA, GO analysis; Single cell sequence data analysis, manual anotation of cells, cellchat and pseudotime information correlation with clinical practice, et al;
 - Communication skills: Chat with ChatGPT, and promote Midjourney with specific words to produce proper images ready for use.
 - Cancer treatment experience for over 5 years; Radiotherapy plan assignment, CT guided puncture, CT guided implantation of 125I, et al.
-- Team Collaboration: good communication skills with other departments and nice re-organization skills to improve efficiency.
+- Team Collaboration: Good communication skills with other departments, nice re-organization skills to improve efficiency and effective methods to active students.
 - Whole process management skill: From brain-storm ideal arising to perform to paper structure construction, to paper writting and to submitting and publication.
 
 
