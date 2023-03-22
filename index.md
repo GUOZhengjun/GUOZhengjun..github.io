@@ -5,7 +5,7 @@
 GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
 
-<img width="200" alt="profile" src="https://user-images.githubusercontent.com/pictures/Klarksu_cell_dying_necrosis_apoptosis._white_background._119b1d4f-49f6-44a9-89a8-9ae94be6fd7d.png">
+<img width="2000" alt="profile" src="https://guozhengjun.github.io/guo.github.io/pictures/Klarksu_cell_dying_necrosis_apoptosis._white_background._119b1d4f-49f6-44a9-89a8-9ae94be6fd7d.png">
 
 ## My Skills
 
