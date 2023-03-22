@@ -9,8 +9,8 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
 ## My Skills
 
-- Basic research skills: Basic Cell Biology and Molecular Biology skills; Clinical data collection and analysis; clinicopathological tissue sample embedding and slides resection associated skills; Teil vein injection, subcutaneous injection and intraocular venous injection for tumor implantation in mice;
-- Bioinformatic analysis and datamining of public databases: Local clinical database construction; Lasso-cox regression model and nomogram analysis; transcriptional array datamining, such as heatmap, volcano, KEGG, GSEA, et al;
+- Basic research skills: Basic Cell Biology and Molecular Biology skills; Clinical data collection and analysis; clinicopathological tissue sample embedding and slides resection associated skills; Teil vein injection, subcutaneous injection and introvacular venous injection for tumor implantation in mice;
+- Bioinformatic analysis and datamining of public databases: Local clinical database construction; Lasso-cox regression model and nomogram analysis; transcriptional array datamining, such as heatmap, volcano, KEGG, GSEA, GO analysis; Single cell sequence data analysis, manual anotation of cells, cellchat and pseudotime information correlation with clinical practice, et al;
 - Communication skills: Chat with ChatGPT, and promote Midjourney with specific words to produce proper images ready for use.
 - Cancer treatment experience for over 5 years; Radiotherapy plan assignment, CT guided puncture, CT guided implantation of 125I, et al.
 - Team Collaboration: good communication skills with other departments and nice re-organization skills to improve efficiency.
