@@ -13,6 +13,8 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 - Bioinformatic analysis and datamining of public databases: Local clinical database construction; Lasso-cox regression model and nomogram analysis; transcriptional array datamining, such as heatmap, volcano, KEGG, GSEA, et al;
 - Communication skills: Chat with ChatGPT, and promote Midjourney with specific words to produce proper images ready for use.
 - Cancer treatment experience for over 5 years; Radiotherapy plan assignment, CT guided puncture, CT guided implantation of 125I, et al.
+- Team Collaboration: good communication skills with other departments and nice re-organization skills to improve efficiency.
+- Whole process management skill: From brain-storm ideal arising to perform to paper structure construction, to paper writting and to submitting and publication.
 
 
 ## Publication
@@ -25,5 +27,4 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
 - E-Mail：guozhengjun@hospital.cqmu.edu.cn
 - WhatsApp：ClarkKOW
-- 
-- 
+- ORCID: 0009-0005-7013-0008
