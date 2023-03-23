@@ -7,14 +7,20 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
 <img width="2000" alt="profile" src="https://guozhengjun.github.io/guo.github.io/pictures/Klarksu_cell_dying_necrosis_apoptosis._white_background._119b1d4f-49f6-44a9-89a8-9ae94be6fd7d.png">
 
+## Research Interests
+- Cancer stem cells, cancer treatment, invasion and metastasis, bioinformatics;
+- Development of novel drug delivery systems for cancer therapy;
+- Biomarkers for lung cancer treatment response, radiation-related pneumonitis, and radiation-related bowel injury;
+
+
 ## My Skills
 
-- Basic research skills: Basic Cell Biology and Molecular Biology skills; Clinical data collection and analysis; clinicopathological tissue sample embedding and slides resection associated skills; Teil vein injection, subcutaneous injection and introvacular venous injection for tumor implantation in mice;
+- Basic research skills: Basic research skills in Cell Biology and Molecular Biology; clinicopathological tissue sample embedding and slides resection associated skills; Teil vein injection, subcutaneous injection and introvacular venous injection for tumor implantation in mice;
 - Bioinformatic analysis and datamining of public databases: Local clinical database construction; Lasso-cox regression model and nomogram analysis; transcriptional array datamining, such as heatmap, volcano, KEGG, GSEA, GO analysis; Single cell sequence data analysis, manual anotation of cells, cellchat and pseudotime information correlation with clinical practice, et al;
 - Communication skills: Chat with ChatGPT, and promote Midjourney with specific words to produce proper images ready for use.
-- Cancer treatment experience for over 5 years; Radiotherapy plan assignment, CT guided puncture, CT guided implantation of 125I, et al.
-- Team Collaboration: Good communication skills with other departments, nice re-organization skills to improve efficiency and effective methods to active students.
-- Whole process management skill: From brain-storm ideal arising to perform to paper structure construction, to paper writting and to submitting and publication.
+- Clinical skills: Cancer treatment experience for over 5 years; Radiotherapy plan assignment, CT guided puncture, CT guided implantation of 125I, Clinical data collection and analysis, et al.
+- Team Collaboration: Good communication skills with other departments, nice re-organization skills to improve efficiency and effective methods to activate students.
+- Whole Process Management skill: From brain-storm ideal arising to perform to paper structure construction, to paper writting and to submitting and publication.
 
 
 ## Publication
