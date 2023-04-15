@@ -31,6 +31,6 @@ GitHub Homepage：[@guozhengjun](https://github.com/guozhengjun)
 
 ## Connect with me
 
-- E-Mail：guozhengjun@hospital.cqmu.edu.cn
+- E-Mail：ClarkLuo@protom.me
 - WhatsApp：ClarkKOW
 - ORCID: 0009-0005-7013-0008
